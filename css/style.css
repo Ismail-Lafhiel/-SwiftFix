@@ -450,7 +450,7 @@ a:focus {
   background-color: #d1e3ff;
 }
 
-@media (min-width: 727px){
+@media (min-width: 727px) {
   .professional_section {
     margin-top: -250px;
   }
@@ -596,7 +596,7 @@ a:focus {
   text-align: center;
 }
 
-.client_section .container{
+.client_section .container {
   margin: 50px auto;
 }
 
@@ -675,7 +675,8 @@ a:focus {
   margin-bottom: 30px;
 }
 
-.contact_section input, .contact_section select {
+.contact_section input,
+.contact_section select {
   width: 100%;
   border: none;
   height: 50px;
